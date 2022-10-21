@@ -10,11 +10,7 @@ st.title("Bem vindo, EMEF/EJA Edson Luis Lima Souto! Vcs são NOTA 1000!")
 st.header("Hamburguers Artesanais do Carlão!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Bem vindos!")
+st.subheader("Bem vindos! ao pod cast da silva")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
-
-st.info("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
-
-st.warning("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
